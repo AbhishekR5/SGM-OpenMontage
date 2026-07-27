@@ -13,3 +13,8 @@ Capabilities
 - Laser Shows
 - Social Reels
 - Product Promos
+
+cd SGM-OpenMontage/remotion-composer
+npm run dev
+
+npx remotion compositions src/index.ts

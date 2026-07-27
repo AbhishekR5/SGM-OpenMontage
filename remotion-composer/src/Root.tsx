@@ -1,6 +1,6 @@
 import React from "react";
 import { Composition } from "remotion";
-import { LogoReveal } from "./compositions/LogoReveal";
+import LogoReveal from "./compositions/LogoReveal";
 
 export const RemotionRoot: React.FC = () => {
   return (

@@ -1,0 +1,21 @@
+# Node
+node_modules/
+
+# Remotion
+.remotion/
+
+# Cache
+.cache/
+**/.cache/
+
+# Build
+dist/
+build/
+out/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
