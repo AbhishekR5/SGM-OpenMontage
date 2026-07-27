@@ -1,5 +1,18 @@
 {
-    "roughness":0.12,
-    "metallic":1.0,
-    "reflection":0.93
+  "id": "carbon",
+  "name": "Carbon Fiber",
+  "description": "Carbon fiber finish for premium industrial surfaces.",
+  "type": "composite",
+  "baseColor": "#1B1B1B",
+  "metallic": 0.2,
+  "roughness": 0.45,
+  "reflectivity": 0.35,
+  "clearcoat": 0.3,
+  "clearcoatRoughness": 0.12,
+  "ior": 1.5,
+  "opacity": 1.0,
+  "normalMap": "carbon_normal.png",
+  "environmentIntensity": 0.8,
+  "castShadows": true,
+  "receiveShadows": true
 }

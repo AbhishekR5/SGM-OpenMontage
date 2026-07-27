@@ -1,5 +1,17 @@
 {
-    "roughness":0.12,
-    "metallic":1.0,
-    "reflection":0.93
+  "id": "metal",
+  "name": "Brushed Steel",
+  "description": "Industrial brushed metal used for mechanical parts.",
+  "type": "metal",
+  "baseColor": "#8D9399",
+  "metallic": 0.95,
+  "roughness": 0.28,
+  "reflectivity": 0.75,
+  "clearcoat": 0.2,
+  "clearcoatRoughness": 0.15,
+  "ior": 2.1,
+  "opacity": 1.0,
+  "environmentIntensity": 1.1,
+  "castShadows": true,
+  "receiveShadows": true
 }

@@ -1,4 +1,4 @@
-# SGM-OpenMontage# SGM OpenMontage Studio
+# SGM OpenMontage Studio
 
 AI-powered cinematic video production system for SGM Special Effects.
 

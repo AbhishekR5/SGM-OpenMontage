@@ -1,5 +1,18 @@
 {
-    "roughness":0.12,
-    "metallic":1.0,
-    "reflection":0.93
+  "id": "chrome",
+  "name": "Premium Chrome",
+  "description": "Highly polished reflective chrome used for hero logo reveals.",
+  "type": "metal",
+  "baseColor": "#C9CDD3",
+  "metallic": 1.0,
+  "roughness": 0.05,
+  "reflectivity": 1.0,
+  "clearcoat": 0.8,
+  "clearcoatRoughness": 0.02,
+  "ior": 2.5,
+  "emissive": "#000000",
+  "opacity": 1.0,
+  "environmentIntensity": 1.5,
+  "castShadows": true,
+  "receiveShadows": true
 }

@@ -1,5 +1,18 @@
 {
-    "roughness":0.12,
-    "metallic":1.0,
-    "reflection":0.93
+  "id": "glass",
+  "name": "Crystal Glass",
+  "description": "Transparent cinematic glass material.",
+  "type": "glass",
+  "baseColor": "#FFFFFF",
+  "metallic": 0.0,
+  "roughness": 0.01,
+  "reflectivity": 1.0,
+  "transmission": 1.0,
+  "ior": 1.52,
+  "opacity": 0.15,
+  "clearcoat": 1.0,
+  "clearcoatRoughness": 0.0,
+  "environmentIntensity": 1.8,
+  "castShadows": false,
+  "receiveShadows": true
 }

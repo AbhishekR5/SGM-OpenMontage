@@ -1,0 +1,8 @@
+{
+    "name":"Laser",
+    "particles":12000,
+    "duration":5,
+    "color":"gold",
+    "lighting":"volumetric",
+    "camera_shake":0.15
+}

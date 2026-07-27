@@ -1,5 +1,18 @@
 {
-    "roughness":0.12,
-    "metallic":1.0,
-    "reflection":0.93
+  "id": "gold",
+  "name": "Luxury Gold",
+  "description": "Premium metallic gold for SGM logo accents.",
+  "type": "metal",
+  "baseColor": "#D4AF37",
+  "metallic": 1.0,
+  "roughness": 0.12,
+  "reflectivity": 0.95,
+  "clearcoat": 0.6,
+  "clearcoatRoughness": 0.03,
+  "ior": 1.8,
+  "emissive": "#000000",
+  "opacity": 1.0,
+  "environmentIntensity": 1.3,
+  "castShadows": true,
+  "receiveShadows": true
 }
