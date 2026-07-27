@@ -1,0 +1,20 @@
+{
+  "company": "SGM Special Effects",
+  "short_name": "SGMFX",
+  "website": "https://www.sgmsfx.com",
+
+  "colors": {
+    "primary": "#D4AF37",
+    "secondary": "#00AEEF",
+    "background": "#000000",
+    "text": "#FFFFFF"
+  },
+
+  "style": {
+    "theme": "Hollywood Cinematic",
+    "camera": "Slow Motion",
+    "lighting": "Volumetric",
+    "particles": true,
+    "lensFlare": true
+  }
+}

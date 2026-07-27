@@ -1,0 +1,23 @@
+name: SGM Cinematic
+
+theme: hollywood
+
+camera:
+  movement: slow
+  lens: anamorphic
+
+lighting:
+  volumetric: true
+  dramatic: true
+
+materials:
+  logo: chrome
+
+particles:
+  sparks: true
+  smoke: true
+  embers: true
+
+color:
+  background: "#000000"
+  accent: "#D4AF37"
