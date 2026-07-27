@@ -1,0 +1,27 @@
+{
+  "name": "sgm-openmontage-renderer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SGM OpenMontage Remotion Renderer",
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render",
+    "preview": "remotion preview",
+    "upgrade": "remotion upgrade"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.366",
+    "@remotion/player": "^4.0.366",
+    "@remotion/google-fonts": "^4.0.366",
+    "@remotion/media-utils": "^4.0.366",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remotion": "^4.0.366"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "typescript": "^5.7.2"
+  }
+}
