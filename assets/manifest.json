@@ -1,0 +1,19 @@
+{
+  "logos": [
+    "brand/logo/logo_gold.png",
+    "brand/logo/logo_white.png",
+    "brand/logo/logo_svg.svg"
+  ],
+  "fonts": [
+    "brand/fonts/"
+  ],
+  "effects": [
+    "effects/cold_pyro.json",
+    "effects/laser.json",
+    "effects/smoke.json"
+  ],
+  "materials": [
+    "materials/chrome.json",
+    "materials/gold.json"
+  ]
+}

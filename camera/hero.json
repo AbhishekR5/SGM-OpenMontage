@@ -1,0 +1,9 @@
+{
+    "movement":"orbit",
+
+    "speed":0.3,
+
+    "duration":8,
+
+    "ease":"cinematic"
+}

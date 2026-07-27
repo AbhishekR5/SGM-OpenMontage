@@ -1,0 +1,19 @@
+scene1:
+  duration:3
+  action:black screen
+
+scene2:
+  duration:4
+  action:logo reveal
+
+scene3:
+  duration:5
+  action:cold pyro
+
+scene4:
+  duration:4
+  action:smoke
+
+scene5:
+  duration:4
+  action:hero shot
