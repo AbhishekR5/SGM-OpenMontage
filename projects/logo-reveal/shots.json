@@ -1,0 +1,23 @@
+[
+  {
+    "shot":1,
+    "start":0,
+    "end":3,
+    "camera":"macro",
+    "effect":"none"
+  },
+  {
+    "shot":2,
+    "start":3,
+    "end":7,
+    "camera":"orbit",
+    "effect":"smoke"
+  },
+  {
+    "shot":3,
+    "start":7,
+    "end":12,
+    "camera":"hero",
+    "effect":"cold_pyro"
+  }
+]

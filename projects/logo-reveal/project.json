@@ -1,0 +1,12 @@
+{
+  "name": "SGM Hero Logo Reveal",
+  "duration": 20,
+  "fps": 30,
+  "resolution": "3840x2160",
+  "style": "sgm-cinematic",
+  "timeline": "../../timelines/logo_intro.yaml",
+  "prompt": "../../prompts/logo_reveal.md",
+  "camera": "../../camera/hero.json",
+  "render": "../../renders/landing_hero.json",
+  "brand": "../../brand/sgm.json"
+}
